@@ -9,6 +9,8 @@ $ bundle exec middleman server
 
 This site is deployed by GitHub Actions to GitHub Pages.
 
+Production URL: https://bdash-app.github.io/
+
 1. Open the repository settings on GitHub.
 2. Go to **Pages**.
 3. Set **Source** to **GitHub Actions**.
